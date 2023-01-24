@@ -1,0 +1,149 @@
+﻿id,Year,Sales,Region
+1,1980,10.59,North America
+2,1981,33.4,North America
+3,1982,26.92,North America
+4,1983,7.76,North America
+5,1984,33.28,North America
+6,1985,33.73,North America
+7,1986,12.5,North America
+8,1987,8.46,North America
+9,1988,23.87,North America
+10,1989,45.15,North America
+11,1990,25.46,North America
+12,1991,12.76,North America
+13,1992,33.89,North America
+14,1993,14.12,North America
+15,1994,28.16,North America
+16,1995,24.83,North America
+17,1996,86.76,North America
+18,1997,94.75,North America
+19,1998,128.36,North America
+20,1999,126.06,North America
+21,2000,94.5,North America
+22,2001,173.98,North America
+23,2002,216.19,North America
+24,2003,193.61,North America
+25,2004,222.51,North America
+26,2005,242.15,North America
+27,2006,262.13,North America
+28,2007,309.89,North America
+29,2008,348.69,North America
+30,2009,335.55,North America
+31,2010,300.65,North America
+32,2011,238.79,North America
+33,2012,153.26,North America
+34,2013,153.65,North America
+35,2014,132.27,North America
+36,2015,106.86,North America
+37,2016,44.93,North America
+38,1980,0.67,Europe
+39,1981,1.96,Europe
+40,1982,1.65,Europe
+41,1983,0.8,Europe
+42,1984,2.1,Europe
+43,1985,4.74,Europe
+44,1986,2.84,Europe
+45,1987,1.41,Europe
+46,1988,6.59,Europe
+47,1989,8.44,Europe
+48,1990,7.63,Europe
+49,1991,3.95,Europe
+50,1992,11.71,Europe
+51,1993,4.29,Europe
+52,1994,14.88,Europe
+53,1995,14.9,Europe
+54,1996,47.26,Europe
+55,1997,48.32,Europe
+56,1998,66.9,Europe
+57,1999,62.67,Europe
+58,2000,52.77,Europe
+59,2001,94.89,Europe
+60,2002,109.75,Europe
+61,2003,103.81,Europe
+62,2004,107.28,Europe
+63,2005,121.11,Europe
+64,2006,127.89,Europe
+65,2007,157.82,Europe
+66,2008,181.14,Europe
+67,2009,187.94,Europe
+68,2010,171.42,Europe
+69,2011,162.97,Europe
+70,2012,114.59,Europe
+71,2013,121.55,Europe
+72,2014,122.74,Europe
+73,2015,96.72,Europe
+74,2016,51.22,Europe
+75,1980,0,Japan
+76,1981,0,Japan
+77,1982,0,Japan
+78,1983,8.1,Japan
+79,1984,14.27,Japan
+80,1985,14.54,Japan
+81,1986,19.81,Japan
+82,1987,11.63,Japan
+83,1988,15.76,Japan
+84,1989,18.36,Japan
+85,1990,14.88,Japan
+86,1991,14.78,Japan
+87,1992,28.87,Japan
+88,1993,25.03,Japan
+89,1994,32.81,Japan
+90,1995,45.18,Japan
+91,1996,57.31,Japan
+92,1997,48.87,Japan
+93,1998,50.04,Japan
+94,1999,51.88,Japan
+95,2000,42.09,Japan
+96,2001,39.58,Japan
+97,2002,41.76,Japan
+98,2003,34.2,Japan
+99,2004,41.65,Japan
+100,2005,54.27,Japan
+101,2006,73.74,Japan
+102,2007,60.29,Japan
+103,2008,60.25,Japan
+104,2009,61.89,Japan
+105,2010,59.49,Japan
+106,2011,53.07,Japan
+107,2012,51.8,Japan
+108,2013,47.69,Japan
+109,2014,39.69,Japan
+110,2015,34.09,Japan
+111,2016,19.31,Japan
+112,1980,0.12,Other
+113,1981,0.32,Other
+114,1982,0.31,Other
+115,1983,0.14,Other
+116,1984,0.7,Other
+117,1985,0.92,Other
+118,1986,1.93,Other
+119,1987,0.2,Other
+120,1988,0.99,Other
+121,1989,1.5,Other
+122,1990,1.4,Other
+123,1991,0.74,Other
+124,1992,1.65,Other
+125,1993,0.84,Other
+126,1994,2.2,Other
+127,1995,2.64,Other
+128,1996,7.69,Other
+129,1997,9.13,Other
+130,1998,11.01,Other
+131,1999,10.04,Other
+132,2000,11.62,Other
+133,2001,22.73,Other
+134,2002,27.27,Other
+135,2003,25.92,Other
+136,2004,47.24,Other
+137,2005,40.29,Other
+138,2006,53.95,Other
+139,2007,76.75,Other
+140,2008,81.42,Other
+141,2009,73.44,Other
+142,2010,58.57,Other
+143,2011,52.75,Other
+144,2012,36.19,Other
+145,2013,38.35,Other
+146,2014,36.83,Other
+147,2015,30.31,Other
+148,2016,14.48,Other
